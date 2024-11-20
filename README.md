@@ -41,7 +41,7 @@ find assets here https://github.com/godfreyicu/Tomato-Leaf-Disease-Classificatio
 
 ## RESULTS OF MODEL TRAINING
 
-The model was trained on 2000 images of different potato leaf diseases and the following results were obtained
+The model was trained on 1000 images of each of the different potato leaf diseases and the following results were obtained
 
 **Test Accuracy:** 0.92308
 **F1 Score:** 0.91102

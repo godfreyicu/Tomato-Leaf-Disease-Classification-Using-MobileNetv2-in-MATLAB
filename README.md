@@ -39,14 +39,14 @@ This MATLAB-based system provides a practical, efficient, and scalable approach 
 
 find assets here https://github.com/godfreyicu/Tomato-Leaf-Disease-Classification-Using-MobileNetv2-in-MATLAB/releases/tag/v2.1
 
-## RESULTS OR MODEL TRAINING
+## RESULTS OF MODEL TRAINING
 
 The model was trained on 2000 images of different potato leaf diseases and the following results were obtained
 
 **Test Accuracy:** 0.92308
 **F1 Score:** 0.91102
 
-confusion matrix
+ ### confusion matrix
 ![image](https://github.com/user-attachments/assets/88744730-83c5-4ba7-a16b-4c989101f47e)
 
 
